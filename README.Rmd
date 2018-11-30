@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 
 # academic-misconduct
 
-A repo to store the academic misconduct related information.
+A repo to store the academic misconduct related information. See the [evidences](./evidence).
 
 ## Email Summary
 
