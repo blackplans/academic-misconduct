@@ -1,0 +1,10 @@
+# academic-misconduct
+
+A repo to store the academic misconduct related information.
+
+## Email Summary
+
+```{r echo=FALSE}
+data <- openxlsx::read.xlsx('email.xlsx')
+DT::datatable(data)
+```
